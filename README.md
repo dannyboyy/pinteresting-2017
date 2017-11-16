@@ -1,24 +1,4 @@
-# README
+#Pinteresting 2017
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This the the pinteresting sample application to review Ruby on Rails. Nice to finally take some time off to learn something I'm interested in. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
