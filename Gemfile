@@ -30,6 +30,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'devise'
 gem "paperclip"
+gem 'aws-sdk'
 
 
 group :development, :test do
