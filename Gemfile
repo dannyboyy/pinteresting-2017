@@ -31,6 +31,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem "paperclip"
 gem 'aws-sdk'
+gem 'masonry-rails'
 
 
 group :development, :test do
